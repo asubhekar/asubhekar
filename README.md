@@ -1,6 +1,7 @@
-<p align="left"> Atharv Subhekar
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUzaGVwaG96dmM5emF0eDRiNXNhZ2QxcGkwN2Fka2c1M25zeDQxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.gif" align = "right"></img>
-</p>
+<h1 align="center">Hi 👋, I'm Kunal Gandhi</h1>
+<h3 align="center">A data driven professional</h3>
+<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUzaGVwaG96dmM5emF0eDRiNXNhZ2QxcGkwN2Fka2c1M25zeDQxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.gif" align = "right"></img>
+
 **asubhekar/asubhekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
