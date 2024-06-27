@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://giphy.com/embed/8qrrHSsrK9xpknGVNF" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/animation-cartoon-robot-8qrrHSsrK9xpknGVNF">via GIPHY</a></p>
-  </a>
-</p>
-
+<iframe src="https://giphy.com/embed/8qrrHSsrK9xpknGVNF" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-cartoon-robot-8qrrHSsrK9xpknGVNF">via GIPHY</a></p>
 <!--
 **asubhekar/asubhekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
